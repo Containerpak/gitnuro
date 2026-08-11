@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Gitnuro
+Comment=Browse and manage Git repositories
+Exec=gitnuro
+Icon=com.jetpackduba.Gitnuro
+Categories=Development;RevisionControl;
+Terminal=false
