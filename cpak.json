@@ -4,7 +4,7 @@
   "name": "Gitnuro",
   "description": "A multiplatform Git client focused on speed and a clear interface.",
   "version": "1.5.0",
-  "image": "ghcr.io/containerpak/gitnuro@sha256:347b3753049055209010af00f4519f0079280f060f6a76ff766657d00300762e",
+  "image": "ghcr.io/containerpak/gitnuro@sha256:985044158e3bb15af26757e36cd607c46d4c774aa0a15cbcb00e77d9b0905f8d",
   "binaries": [
     "/usr/bin/gitnuro"
   ],
